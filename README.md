@@ -35,3 +35,5 @@ Ideas:
 - Microexpression-based assessment of emotions using facial recognition AI software
 
 - Aggregated consumer advocacy for disputes with airlines, utilities, telecoms, and banks
+
+- WeWork extended to nightlife use as well - day-long space rental with gym, classes, coffee, food, bar, social network, etc. - pricing would need to be a la carte or subscription but the idea would be one place who attracts a particular niche of people and offers something for them for all elements of life (work, social, health)
